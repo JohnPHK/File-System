@@ -5,7 +5,7 @@ The file system is consisting of superblocks which stores meta data of file syst
 
 It is able to replicate all the linux commands, the examples are in below.
 <p float="left">
-  <img src="https://github.com/JohnPHK/File-System/blob/main/filesystem1.png" width=400 height=600>
+  <img src="https://github.com/JohnPHK/File-System/blob/main/filesystem1.png" width=500 height=700>
 
   <img src="https://github.com/JohnPHK/File-System/blob/main/filesystem2.png" width=400 heigh=500>
 <p>
