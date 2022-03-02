@@ -5,8 +5,8 @@ The file system is consisting of superblocks which stores meta data of file syst
 
 It is able to replicate all the linux commands, the examples are in below.
 
-![](https://github.com/JohnPHK/File-System/blob/main/filesystem1.png)
+<img src="https://github.com/JohnPHK/File-System/blob/main/filesystem1.png" width=300 height=500>
 
-![](https://github.com/JohnPHK/File-System/blob/main/filesystem2.png)
+<img src="https://github.com/JohnPHK/File-System/blob/main/filesystem2.png" width=300 heigh=500>
 
 The above are what is produced from running runit.sh file. As one can see, using this file system, one can perform commands such as mkdir, touch, cd, ls, etc... as if one is in a new linux system
